@@ -1,0 +1,7 @@
+customer,item,unit_cents,qty,date
+"Acme, Inc.",Widget,106,1,2026-01-05
+" acme, inc. ","Bolt, 3""",106,1,2026-01-10
+
+Birch LLC,Gear,123456,3,2025-11-01
+birch llc,Shim,1,1,2025-10-01
+Cobalt,Nut,250,40,2026-03-01
